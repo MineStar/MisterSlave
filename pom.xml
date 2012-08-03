@@ -3,17 +3,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.minestar</groupId>
 	<artifactId>MisterSlave</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<dependencies>
 		<dependency>
 			<groupId>de.minestar</groupId>
 			<artifactId>MineStarLibrary</artifactId>
-			<version>1.9-SNAPSHOT</version>
+			<version>2.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.bukkit</groupId>
 			<artifactId>bukkit</artifactId>
-			<version>1.3.1-R0.1-SNAPSHOT</version>
+			<version>1.2.5-R4.0</version>
 		</dependency>
 	</dependencies>
 	<build>
