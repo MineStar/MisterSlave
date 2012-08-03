@@ -1,0 +1,4 @@
+name: MisterSlave
+main: de.minestar.misterslave.core.MisterSlaveCore
+version: ${pom.version}
+depend: [ContaoTwo]
